@@ -29,16 +29,13 @@ Giai đoạn 2: Trực quan hóa (Power BI)
 
 Visualization: Thiết kế bản đồ khu vực, biểu đồ xu hướng và lọc Top 4 sản phẩm bán chạy nhất...
 
-🖼️ 4. Giao diện báo cáo (Power BI)
-
-
-📁 5. Cấu trúc thư mục
+📁 4. Cấu trúc thư mục
 Plaintext
 ├── data/       # File csv gốc
 ├── notebooks/  # File Python trên Colab (.ipynb)
 ├── reports/    # File báo cáo Power BI (.pbix)
 └── README.md   # Hướng dẫn dự án
-👨‍💻 6. Tác giả
+👨‍💻 5. Tác giả
 Fullname : HÀ THÚC KHƯƠNG NINH
 
 🎓 Sinh viên ngành Artificial Intelligent - Đại học FPT (FPTU).
