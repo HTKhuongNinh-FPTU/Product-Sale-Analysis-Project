@@ -6,6 +6,10 @@ Dự án phân tích hiệu suất kinh doanh trọn gói (End-to-End) sử dụ
 
 Dữ liệu: https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024
 
+Quy mô dữ liệu : 200000 records 
+
+Phạm vi dữ liệu : United States
+
 Thời gian: Phân tích thực tế (2023-2024) & Dự báo tương lai (2025).
 
 🛠️ 2. Công cụ sử dụng
