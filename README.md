@@ -1,59 +1,59 @@
 ***Product Sales Analysis (2023-2024) & 2025 Forecasting***
 
-📌 1. Tổng quan dự án
+📌 1. Project Overview
 
-Dự án phân tích hiệu suất kinh doanh trọn gói (End-to-End) sử dụng kết hợp sức mạnh tính toán của Python và khả năng trực quan hóa của Power BI.
+This is a full-service (End-to-End) business performance analysis project combining the computational power of Python and the visualization capabilities of Power BI.
 
-Dữ liệu: https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024
+Data: https://www.kaggle.com/datasets/yashyennewar/product-sales-dataset-2023-2024
 
-Quy mô dữ liệu : 200000 records 
+Data Size: 200,000 records
 
-Phạm vi dữ liệu : United States
+Data Scope: United States
 
-Thời gian: Phân tích thực tế (2023-2024) & Dự báo tương lai (2025).
+Timeframe: Current analysis (2023-2024) & Future forecasting (2025).
 
-🛠️ 2. Công cụ sử dụng
+🛠️ 2. Tools Used
 
-Google Colab (Python) + Google Gemini: Thực hiện EDA (Khám phá dữ liệu), kiểm tra các chỉ số thống kê và làm sạch file CSV gốc.
+Google Colab (Python) + Google Gemini: Performed EDA (Data Exploration), checked statistical metrics, and cleaned the original CSV file.
 
-Power BI Desktop: thiết kế Dashboard tương tác.
+Power BI Desktop: Designed interactive dashboards.
 
-📂 3. Quy trình thực hiện
+📂 3. Implementation Process
 
-Giai đoạn 1: Xử lý kỹ thuật (Google Colab)
+Phase 1: Technical Processing (Google Colab)
 
-AI Modeling: Sử dụng thuật toán dự báo (như Linear Regression, ARIMA hoặc các kỹ thuật học máy khác) để tính toán doanh số cho năm 2025.
+AI Modeling: Using forecasting algorithms (such as Linear Regression, ARIMA, or other machine learning techniques) to calculate sales for 2025.
 
-Tôi sử dụng Python để đảm bảo dữ liệu đầu vào đạt tiêu chuẩn phân tích:
+I used Python to ensure the input data met analytical standards:
 
-Xử lý định dạng ngày tháng và các giá trị thiếu (Missing values).
+Handling date formatting and missing values.
 
-Phân tích thống kê mô tả (Descriptive Statistics) để hiểu về phân phối doanh thu.
+Performing descriptive statistics to understand revenue distribution.
 
-👉 Link Notebook: https://colab.research.google.com/github/HTKhuongNinh-FPTU/Data-Analysis-Project/blob/main/notebooks/product_sales.ipynb#scrollTo=AenUn6npWu-_
+👉 Notebook Link: https://colab.research.google.com/github/HTKhuongNinh-FPTU/Data-Analysis-Project/blob/main/notebooks/product_sales.ipynb#scrollTo=AenUn6npWu-_
 
-Giai đoạn 2: Trực quan hóa (Power BI)
+Phase 2: Visualization (Power BI)
 
-Visualization: Thiết kế bản đồ khu vực, biểu đồ xu hướng và lọc Top 4 sản phẩm bán chạy nhất...
+Visualization: Design area maps, trend charts, and filter the top 4 best-selling products...
 
-📁 4. Cấu trúc thư mục
+📁 4. Folder Structure
 
 Plaintext
 
-├── data/       # File csv gốc
+├── data/ # Original CSV file
 
-├── notebooks/  # File Python trên Colab (.ipynb)
+├── notebooks/ # Python file on Colab (.ipynb)
 
-├── reports/    # File báo cáo Power BI (.pbix)
+├── reports/ # Power BI report file (.pbix)
 
-└── README.md   # Hướng dẫn dự án
+└── README.md # Project guide
 
-👨‍💻 5. Tác giả
+👨‍💻 5. Authorization Fake
 
-Fullname : HÀ THÚC KHƯƠNG NINH
+Full name: HA THUC KHUONG NINH
 
-🎓 Sinh viên ngành Artificial Intelligent - Đại học FPT (FPTU).
+🎓 Student majoring in Artificial Intelligence - FPT University (FPTU).
 
-🎯 Định hướng: Data Analyst.
+🎯 Career path: Data Analyst.
 
 🔗 hathuckhuongninh@gmail.com
