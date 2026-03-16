@@ -34,7 +34,7 @@ Performing descriptive statistics to understand revenue distribution.
 
 Phase 2: Visualization (Power BI)
 
-Visualization: Design area maps, trend charts, and filter the top 4 best-selling products...
+Visualization: Design area maps, trend charts, filter the top 1 best-selling products and leading city in total orders...
 
 📁 4. Folder Structure
 
