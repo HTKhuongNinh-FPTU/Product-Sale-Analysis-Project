@@ -14,7 +14,7 @@ Thời gian: Phân tích thực tế (2023-2024) & Dự báo tương lai (2025).
 
 🛠️ 2. Công cụ sử dụng
 
-Google Colab (Python): Thực hiện EDA (Khám phá dữ liệu), kiểm tra các chỉ số thống kê và làm sạch file CSV gốc.
+Google Colab (Python) + Google Gemini: Thực hiện EDA (Khám phá dữ liệu), kiểm tra các chỉ số thống kê và làm sạch file CSV gốc.
 
 Power BI Desktop: thiết kế Dashboard tương tác.
 
