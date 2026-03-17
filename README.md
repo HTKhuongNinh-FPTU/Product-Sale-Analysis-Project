@@ -44,7 +44,7 @@ Plaintext
 
 ├── notebooks/ # Python file on Colab (.ipynb)
 
-├── reports/ # Power BI report file (.pbix)
+├── reports/ # Power BI report files (.pbix) and (.pdf) 
 
 └── README.md # Project guide
 
