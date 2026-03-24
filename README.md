@@ -48,7 +48,7 @@ Plaintext
 
 └── README.md # Project guide
 
-5. Authorization Fake
+5. Author
 
 Full name: HA THUC KHUONG NINH
 
