@@ -54,6 +54,6 @@ Full name: HA THUC KHUONG NINH
 
 Student majoring in Artificial Intelligence - FPT University (FPTU).
 
-Career path: Data Analyst/Business Analyst.
+Career path: Data Analyst
 
 Email: hathuckhuongninh@gmail.com
